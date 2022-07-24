@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+}
+.top_bar{
+    border: 0px solid red;
+    background-color: rgb(10, 111, 111);
+    height: 50px;
+    width: 100%;
+    color: white;
+    padding: 13px;
+    text-align: center;
+}
+
+
+.middle_navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    
+    
+}
+.middle_navbar>c{
+    font-size: 40px;
+    font-family: serif;
+
+}
+.middle_navbar>input{
+    width: 40%;
+}
+
+
+.logo{
+    font-size: 40px;
+    font-family: cursive;
+}
+Input{
+    height: 72px;
+    width: 100%;
+    /* border: 1px solid rgb(22, 22, 190); */
+    border-radius: 2px;
+    text-align: center;
+    
+
+    
+    
+}
+.middle_bar{
+    display: flex;
+    /* border: 1px solid rgb(22, 22, 190); */
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.middle_bar1{
+    /* border: 1px solid red; */
+    width: 18%;
+    margin-top: 9px;
+    cursor: pointer;
+    
+
+}
+.middle_bar2{
+    /* border: 1px solid rgb(50, 22, 22); */
+    width: 56%;
+    margin-top: 15px;
+    
+
+
+}
+.middle_bar3{
+    /* border: 1px solid rgb(27, 185, 95); */
+    width: 6%;
+    margin-top: 18px;
+    cursor: pointer;
+
+}
+.middle_bar4{
+    /* border: 1px solid rgb(27, 185, 95); */
+    width: 5%;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+
+}
+.hr{
+    width: 94%;
+    margin: auto;
+    border: 1px solid gray;;
+    background-color: gray;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    
+    
+}
+.cart_count{
+   
+    color: rgb(190, 5, 5);
+}
+
+
+
+
+.bottom_bar{
+    margin-top: 30px;
+    /* border: 1px solid black; */
+    width: 85%;
+    margin-left: 120px;
+    
+    
+    
+}
+.bottom_bar1{
+    /* border: 1px solid red; */
+    text-align: center;
+
+}
+.bottom_bar1>p{
+    font-size: 20px;
+    color: #393939;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+}
+.bottom_bar2{
+    text-align: center;
+}
+.bottom_bar{
+    color: rgb(6, 79, 22);
+    font-size: 16px;
+    /* font-weight: bold; */
+    /* border: 1px solid red; */
+    width: 90%;
+    margin: auto;
+    background-color: rgb(247, 245, 242);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+
+
+
+
+
+
+
+  
+ 

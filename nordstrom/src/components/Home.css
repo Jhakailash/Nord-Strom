@@ -1,0 +1,131 @@
+.home_1{
+    width: 95%;
+    margin: auto;
+}
+.home_2{
+    border: 1px solid #f6f6f6   ;
+    height: 210px;
+    background-color: #f6f6f6;
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.home_child_1{
+    /* border: 1px solid red; */
+    width: 93%;
+    margin: auto;
+    height: 110px;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+}
+
+.home_child_2>div:nth-child(1){
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+    
+
+}
+.home_child_2>div:nth-child(2){
+    font-size: 35px;
+    font-weight: bold;
+    color: red;
+    
+
+}
+.home_child_3>div{
+    cursor: pointer;
+}
+.home_child_3>div:hover{
+    color: red;
+}
+.all_items{
+    width: 95%;
+    border: 1px solid red;
+    height: 300px;
+    display: flex;
+    margin: auto;
+    
+
+}
+.home_3{
+    width: 95%;
+    /* border: 1px solid red; */
+    height: 510px;
+    display: flex;
+    
+    
+}
+
+.home_dblimg{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    /* border: 1px solid red; */
+    /* justify-content: space-around; */
+}
+.home_4>img{
+    width: 100%;
+    /* border: 1px solid red; */
+    height: 490px;
+
+}
+.home_4{
+    width: 140%;
+    
+}
+.home_5{
+    width: 95%;
+    /* border: 1px solid red; */
+    height: 100px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+.home_5>div:nth-child(1){
+    /* border: 1px solid red; */
+    width: 50%;
+}
+.home_5>div:nth-child(2){
+    /* border: 1px solid rgb(25, 19, 208); */
+    width: 46%;
+}
+
+.home_6{
+    
+    height: 170px;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 70px;
+    
+}
+.home_7{
+    border: 1px solid black;
+    margin-bottom: 50px;
+    width: 95%;
+    margin: auto;
+    background-color: black;
+}
+.home_8{
+    font-size: 20px;
+    color: #393939;
+    font-family: Arial, Helvetica, sans-serif;
+    /* line-height: 100px; */
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
