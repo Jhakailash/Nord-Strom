@@ -1,0 +1,22 @@
+.Productslider_main{
+    border: 1px solid red;
+    height: 230px;
+    width: 20%;
+    /* display: flex;
+    justify-content: space-around; */
+}
+/* .Productslider_main>div:nth-child(1){
+    border: 1px solid red;
+    height: 50px;
+    width: 20%;
+
+}
+.Productslider_main>div:nth-child(2){
+    border: 1px solid red;
+    height: 50px;
+
+}.Productslider_main>div:nth-child(3){
+    border: 1px solid red;
+    height: 50px;
+
+} */

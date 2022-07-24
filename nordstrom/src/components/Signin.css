@@ -1,0 +1,14 @@
+.signin_b>Button{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.signin_new:hover{
+    color: rgb(9, 199, 63);
+    cursor: pointer;
+    font-size: 22px;
+
+}
+.signin_new{
+    color: red;
+}
