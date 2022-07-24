@@ -1,0 +1,28 @@
+.craeteaccount_main{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    height: 500px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.craeteaccount_main>div:nth-child(9){
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+.craeteaccount_main>div:nth-child(11){
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 40px;
+    width: 60%;
+    margin: auto;
+}
+.craeteaccount_main>div:nth-child(11):hover{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+    font-size: 22px;
+}

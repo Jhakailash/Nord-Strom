@@ -1,0 +1,45 @@
+.cards{
+    box-shadow: #11111a1a 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    margin-bottom: 70px;
+    width: 80%;
+    border-radius: 5px;
+}
+/* .image_box{
+    border: 1px solid red;
+    width: 150%;
+
+} */
+.cards:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    cursor: pointer;
+    
+}
+.details>p:nth-child(3){
+    /* background-color: rgb(246, 214, 214); */
+    font-size: 22px;
+    color: rgb(252, 5, 5);
+    text-align: center;
+}
+.details>p:nth-child(2){
+
+    text-align: center;
+}
+.details>p:nth-child(1){
+   
+    text-align: center;
+}
+.details>button{
+   font-size: large;
+   width: 92%;
+   border-radius: 5px;
+}
+.details>button:hover{
+    font-size: larger;
+    width: 95%;
+    border-radius: 7px;
+    background-color: aquamarine;
+ }
+ .image_box>img{
+    margin: auto;
+
+ }

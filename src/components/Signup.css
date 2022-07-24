@@ -1,0 +1,36 @@
+.signup_main{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    height: 400px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    border-radius: 20px;
+    margin-top:60px;
+    margin-bottom: 80px;
+}
+.signup_main>div:nth-child(3){
+    font-size: 14px;
+    color: black;
+
+}
+input{
+    border:1px solid black;
+    height: 40px;
+    width: 60%;
+    
+}
+.signup_last{
+    color: white;
+    background-color: black;
+    width: 60%;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+.signup_last:hover{
+    cursor: pointer;
+    background-color: aqua;
+    font-size: 30px;
+
+}
